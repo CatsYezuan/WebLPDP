@@ -12,3 +12,4 @@
 - 助力
   - [帮助者名单](/cosponsors_list.md)
   - [赞助我们](/donate_us.md)
+  - [testing](./testing.md)
